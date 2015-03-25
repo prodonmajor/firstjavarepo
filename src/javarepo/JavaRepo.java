@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,6 +16,7 @@ public class JavaRepo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //i seek a conflict
         System.out.println("My repo0");
         System.out.println("Love sucks");
     }
